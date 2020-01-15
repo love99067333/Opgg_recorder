@@ -1,6 +1,7 @@
 # Opgg_recorder
  利用Python爬蟲紀錄每日Opgg英雄數據
  
+	預設儲存至Xampp之MySQL
 	使用前請開啟mysql並確認有opgg資料庫
 	程式碼opgg.py 可以用文字編輯器開啟 若有安裝python也可直接執行
 	
