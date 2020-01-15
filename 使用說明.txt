@@ -1,0 +1,3 @@
+為了避免電腦沒有安裝python我已經把程式碼包成exe檔了在\dist\opgg\opgg.exe
+使用前請開啟mysql並確認有opgg資料庫
+程式碼opgg.py 可以用文字編輯器開啟 若有安裝python也可直接執行
